@@ -6,4 +6,4 @@ Tenemos como actores del sistema al creador de torneos, que se ocupa de la creac
 
 Con este diseño UML, podemos hacer un esquepa de clases que seguiriamos para crear nuestra aplicación:
 
-https://github.com/xmontiel/AD-3.-Tarea-UML/blob/main/clases.png
+![clases](https://github.com/user-attachments/assets/6424ce27-6a39-4f8c-90cf-a4488888cb60)
